@@ -1,2 +1,2 @@
-# sectionr-support
+# SectionR Support
 Support and Documentation for SectionR.com
